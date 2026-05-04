@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio5",
+  "version": "1.0.0",
+  "description": "¡Bienvenido a mi repositorio de prácticas! Este proyecto contiene una serie de ejercicios de lógica de programación desarrollados con **JavaScript Moderno (ES6+)**, organizados de forma modular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamilton1809/5ej.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hamilton1809/5ej/issues"
+  },
+  "homepage": "https://github.com/Hamilton1809/5ej#readme",
+  "devDependencies": {
+    "vitest": "^4.1.5"
+  }
+}
