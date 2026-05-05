@@ -1,8 +1,3 @@
-
-
-
-// ------------------- EJERCICIOS 20–25 -------------------
-
 const ejercicio20 = (texto) => {
     let vocales = "aeiouAEIOU";
     let contador = 0;
